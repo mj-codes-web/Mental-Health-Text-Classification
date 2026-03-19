@@ -1,4 +1,4 @@
-# Mental-Health-Text-Classification
+# Mental-Health-Text-Classification using TF-IDF
 ## 📌 Project Overview
 
 Mental health issues such as depression, anxiety, and stress are often expressed through text on social media, forums, and online platforms. Early detection through automated systems can help in timely intervention and support.
